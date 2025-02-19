@@ -1,4 +1,4 @@
-'''C++
+```C++
 #include <iostream>
 #include <vector>
 using namespace std;
@@ -18,4 +18,4 @@ int main() {
  cout << A[n - 1] - A[0] << endl;
  return 0;
 }
-'''
+```
